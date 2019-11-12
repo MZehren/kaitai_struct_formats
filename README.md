@@ -1,3 +1,5 @@
+DEPRECATED: guitar pro 5 parsing moved to https://github.com/mauricek/kaitai_format_gp5
+
 # Kaitai Struct: formats library
 
 This repository constitutes a library of ready-made binary file format
